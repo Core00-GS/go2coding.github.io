@@ -6,7 +6,322 @@
     <description>Recent content in Newtutorials on AiBard123| ai工具网址导航,ai最新产品</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 17 Sep 2025 01:36:39 +0000</lastBuildDate><atom:link href="https://aibard123.com/newtutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Oct 2025 02:12:37 +0000</lastBuildDate><atom:link href="https://aibard123.com/newtutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>手搓Claude Code </title>
+      <link>https://aibard123.com/newtutorial/2025/10/mini_claude_code/</link>
+      <pubDate>Thu, 09 Oct 2025 02:12:37 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/mini_claude_code/</guid>
+      <description>手搓Claude Code “手搓Claude Code”项目旨在以最少的代码复刻Claude Code的核心工作流，并分为两个主要版本。V1版本是一个大约400行Python代码的极简CLI实现，其核心在于验证“模型即代理”（Model as Agent）的</description>
+    </item>
+    
+    <item>
+      <title>Ai-Review </title>
+      <link>https://aibard123.com/newtutorial/2025/10/Ai-Review/</link>
+      <pubDate>Thu, 09 Oct 2025 02:12:00 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/Ai-Review/</guid>
+      <description>Ai-Review AI-Review 项目专注于利用人工智能技术，优化论文撰写及投稿准备工作，旨在帮助研究人员高效地识别手稿的优点与不足，并获取具体的改进建议。它提供了一个便捷的Web界面，用户可以直接通过“快速尝试”功能体验其强大能力，无需自行配置API，同时支持接入De</description>
+    </item>
+    
+    <item>
+      <title>ChatGPT Conversation Timeline Extension </title>
+      <link>https://aibard123.com/newtutorial/2025/10/chatgpt-conversation-timeline/</link>
+      <pubDate>Thu, 09 Oct 2025 02:11:31 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/chatgpt-conversation-timeline/</guid>
+      <description>ChatGPT Conversation Timeline Extension ChatGPT Conversation Timeline Extension 是一款为 ChatGPT 对话页面设计的浏览器扩展，它通过添加交互式时间线，使用户能快速理解对话结构，并可点击标记即时跳转到任一用户消息。该扩展还具备长按消息进行星标收藏并高亮显示的功能，且收藏状态可持久保存，同时能自动适应 ChatGPT 的深色或浅色主</description>
+    </item>
+    
+    <item>
+      <title>Company Research Agent </title>
+      <link>https://aibard123.com/newtutorial/2025/10/company-research-agent/</link>
+      <pubDate>Thu, 09 Oct 2025 02:11:08 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/company-research-agent/</guid>
+      <description>Company Research Agent Company Research Agent 是一个强大的多智能体工具，专注于生成全面的公司研究报告。该平台通过其独特的智能体流水线，能够从公司官网、新闻、财报和行业分析等多源智能收集数据并进行相关性过滤。其核心优势在于结合了 Gemini 2.0 Flash 进行高效的深度内容合成和分类摘要，以及 GPT-4.1-mini 进</description>
+    </item>
+    
+    <item>
+      <title>Paper2Video </title>
+      <link>https://aibard123.com/newtutorial/2025/10/Paper2Video/</link>
+      <pubDate>Thu, 09 Oct 2025 02:10:17 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/Paper2Video/</guid>
+      <description>Paper2Video Paper2Video是一个旨在自动化科研论文演示视频生成并提供专业评估的开源项目。其核心功能分为两大部分：PaperTalker代理能够根据LaTeX论文源文件、参考图像和音频，自动生成包含幻灯片、字幕、光标定位、语音合成和数字人（ta</description>
+    </item>
+    
+    <item>
+      <title>HunyuanImage-3.0 </title>
+      <link>https://aibard123.com/newtutorial/2025/09/HunyuanImage-3.0/</link>
+      <pubDate>Mon, 29 Sep 2025 02:07:41 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/HunyuanImage-3.0/</guid>
+      <description>HunyuanImage-3.0 HunyuanImage-3.0是一个开创性的原生多模态模型，在一个统一的自回归框架下整合了多模态理解和生成能力，使其文本到图像生成性能达到或超越了领先的闭源模型。其核心优势在于作为目前规模最大的开源图像生成专家混合（MoE）模型，拥有8</description>
+    </item>
+    
+    <item>
+      <title>CrewAI 股票分析系统 </title>
+      <link>https://aibard123.com/newtutorial/2025/09/crewai_stock_analysis_system/</link>
+      <pubDate>Mon, 29 Sep 2025 02:07:04 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/crewai_stock_analysis_system/</guid>
+      <description>CrewAI 股票分析系统 CrewAI 股票分析系统是一个先进的智能平台，它利用CrewAI框架的多Agent协作（如数据收集、分析、决策团队）与智能流程控制机制，为用户提供全面的股票投资分析服务。该系统能够进行多维度智能分析，涵盖基本面、技术面和行业分析，并支持</description>
+    </item>
+    
+    <item>
+      <title>AIMangaStudio </title>
+      <link>https://aibard123.com/newtutorial/2025/09/aimangastudio/</link>
+      <pubDate>Mon, 29 Sep 2025 02:06:22 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/aimangastudio/</guid>
+      <description>AIMangaStudio AIMangaStudio 是一个利用人工智能技术，为独立创作者和工作室提供端到端漫画创作流程的工具。它通过整合剧本生成、分镜布局、角色设定和页间连续性分析等功能，极大地简化了从剧本构思到最终漫画页面的制作过程，旨在帮助用户高效地创作漫画。 主要功能、核心要点和关键</description>
+    </item>
+    
+    <item>
+      <title>Twitter AI 监控系统 </title>
+      <link>https://aibard123.com/newtutorial/2025/09/TweetAI-Monitor/</link>
+      <pubDate>Mon, 29 Sep 2025 02:05:49 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/TweetAI-Monitor/</guid>
+      <description>Twitter AI 监控系统 “Twitter AI 监控系统”是一个智能化的Twitter推文监控解决方案，核心功能在于利用大语言模型自动翻译指定账号的最新推文，生成中文标题和摘要并进行AI内容分析。该系统提供友好的Web管理界面，支持实时查看监控状态、配置监控</description>
+    </item>
+    
+    <item>
+      <title>binglish </title>
+      <link>https://aibard123.com/newtutorial/2025/09/binglish/</link>
+      <pubDate>Mon, 29 Sep 2025 02:05:22 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/binglish/</guid>
+      <description>binglish binglish是一款结合了AI技术的桌面英语学习工具，其主要功能是自动获取并更换必应每日精选壁纸，同时在壁纸上叠加AI生成的相关英语词汇及其图片、例句和翻译，为用户提供沉浸式的学习体验。该工具的词汇难度范围从大学英语四级到GRE，且每三</description>
+    </item>
+    
+    <item>
+      <title>ETF网格交易策略设计工具 </title>
+      <link>https://aibard123.com/newtutorial/2025/09/etf-grid-design/</link>
+      <pubDate>Fri, 26 Sep 2025 01:41:21 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/etf-grid-design/</guid>
+      <description>ETF网格交易策略设计工具 “ETF网格交易策略设计工具”是一个基于ETF日线数据和专业量化算法，旨在帮助投资者科学制定网格交易策略的智能工具。该工具能够智能分析ETF的历史价格波动特征，根据用户设定的交易频率自动计算并生成最优网格参数，同时</description>
+    </item>
+    
+    <item>
+      <title>Voyant Travel Assistant </title>
+      <link>https://aibard123.com/newtutorial/2025/09/voyant/</link>
+      <pubDate>Fri, 26 Sep 2025 01:40:54 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/voyant/</guid>
+      <description>Voyant Travel Assistant Voyant Travel Assistant项目是一个专注于旅行领域的智能元代理，其核心是一个单一的元代理管道，负责规划工具调用、执行操作、记录收据并在回复用户之前进行严格验证，旨在提供快速、可信赖且来源清晰的答案。该系统采用AI优先的规划方法（利用Ope</description>
+    </item>
+    
+    <item>
+      <title>index-tts-lora </title>
+      <link>https://aibard123.com/newtutorial/2025/09/index-tts-lora/</link>
+      <pubDate>Fri, 26 Sep 2025 01:40:27 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/index-tts-lora/</guid>
+      <description>index-tts-lora index-tts-lora项目基于Bilibili的index-tts模型，专注于为单说话人和多说话人场景提供LoRA微调解决方案，旨在显著提升高质量说话人音频合成的韵律和自然度。其核心功能涵盖了音频token和说话人条件提取、训练以及</description>
+    </item>
+    
+    <item>
+      <title>AI Chatbot Template </title>
+      <link>https://aibard123.com/newtutorial/2025/09/ai-chatbot/</link>
+      <pubDate>Fri, 26 Sep 2025 01:39:54 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/ai-chatbot/</guid>
+      <description>AI Chatbot Template AI Chatbot Template 是一个现代化的、高度可定制的AI聊天机器人项目，其核心功能在于通过Next.js、Vercel AI SDK和Google Gemini提供实时流式AI响应，并利用Arcjet实现强大的速率限制和机器人防护。该项目主要特点包括可灵活配置</description>
+    </item>
+    
+    <item>
+      <title>Dayflow </title>
+      <link>https://aibard123.com/newtutorial/2025/09/Dayflow/</link>
+      <pubDate>Fri, 26 Sep 2025 01:39:19 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/Dayflow/</guid>
+      <description>Dayflow Dayflow是一款专为macOS设计的原生应用，核心在于自动将用户的屏幕活动转化为带有AI摘要和分心高亮的时间轴，从而帮助用户清晰洞察其时间使用。它以1帧/秒的低开销录制屏幕，每15分钟进行一次AI分析来生成活动概览，并支持回放每日延时</description>
+    </item>
+    
+    <item>
+      <title>AI Model Comparison Tool </title>
+      <link>https://aibard123.com/newtutorial/2025/09/AI-model-comparison/</link>
+      <pubDate>Thu, 25 Sep 2025 01:34:49 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/AI-model-comparison/</guid>
+      <description>AI Model Comparison Tool “AI模型对比工具”是一款纯前端、美观直观的Web应用程序，主要用于并排比较两个不同AI模型的响应效果。该工具的核心功能包括同时调用两个兼容OpenAI API的AI模型，支持多轮对话以保持上下文连贯，并能显示响应时间、token使用</description>
+    </item>
+    
+    <item>
+      <title>receipthero </title>
+      <link>https://aibard123.com/newtutorial/2025/09/receipthero/</link>
+      <pubDate>Thu, 25 Sep 2025 01:34:28 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/receipthero/</guid>
+      <description>receipthero ReceiptHero 是一个开源的收据管理应用，其核心功能在于利用人工智能驱动的光学字符识别 (OCR) 技术。该项目基于 Together AI 平台及其 Llama 4 Scout 17B 模型，能够处理用户上传的收据图片（支持拖放或文件选择），并从中智能提取包括商家、日期、金额、商品、货币和支付方式在内的结构化数据</description>
+    </item>
+    
+    <item>
+      <title>Reddit AI Trend Reports </title>
+      <link>https://aibard123.com/newtutorial/2025/09/reddit-ai-trends/</link>
+      <pubDate>Thu, 25 Sep 2025 01:34:09 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/reddit-ai-trends/</guid>
+      <description>Reddit AI Trend Reports Reddit AI Trend Reports 是一个自动化工具，旨在通过实时监控多个AI相关Reddit社区，生成关于AI领域最新发展趋势的详细报告。它能够进行多社区数据收集，提供包括每日亮点、每周对比、每月技术演变及深度技术分析等全面的趋势分析，并支持英语和中文双语报</description>
+    </item>
+    
+    <item>
+      <title>虚假新闻检测器 </title>
+      <link>https://aibard123.com/newtutorial/2025/09/fake-news-detector/</link>
+      <pubDate>Thu, 25 Sep 2025 01:33:46 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/fake-news-detector/</guid>
+      <description>虚假新闻检测器 “虚假新闻检测器”项目是一个基于事实核查的自动化系统，旨在检测虚假新闻。它利用大型语言模型（如Qwen2.5-14B）和BGE-M3-Embedding模型，能够自动从新闻文本中提取可核查的核心声明，并通过DuckDuckGo</description>
+    </item>
+    
+    <item>
+      <title>Coding Agent </title>
+      <link>https://aibard123.com/newtutorial/2025/09/coding-agent-template/</link>
+      <pubDate>Thu, 25 Sep 2025 01:33:20 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/coding-agent-template/</guid>
+      <description>Coding Agent Coding Agent Template是一个AI驱动的编码代理项目，旨在自动化代码仓库中的编程任务。它支持Claude Code、OpenAI Codex CLI、Cursor CLI和opencode等多种AI代理进行任务执行，并利用Vercel Sandbox提供安全</description>
+    </item>
+    
+    <item>
+      <title>蛐蛐 QuQu </title>
+      <link>https://aibard123.com/newtutorial/2025/09/ququ/</link>
+      <pubDate>Tue, 23 Sep 2025 01:43:13 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/ququ/</guid>
+      <description>蛐蛐 QuQu 鹅鹅 (QuQu) 是一个专为中文用户打造的开源免费智能语音工作流，作为 Wispr Flow 的高效替代方案，其核心亮点在于：通过内置的阿里 FunASR Paraformer 模型实现顶尖的本地化中文语音识别，确保用户数据隐私且能准确理解中文网络俚语；独创的“ASR精准识别 + LLM智能优化”两段式</description>
+    </item>
+    
+    <item>
+      <title>MiMo-Audio </title>
+      <link>https://aibard123.com/newtutorial/2025/09/MiMo-Audio/</link>
+      <pubDate>Tue, 23 Sep 2025 01:42:45 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/MiMo-Audio/</guid>
+      <description>MiMo-Audio MiMo-Audio项目致力于通过大规模预训练（超过一亿小时数据）来构建具备强大少样本学习和泛化能力的音频语言模型，旨在实现类似人类的从少量示例或简单指令中泛化到新音频任务的能力。其核心在于MiMo-Audio-Tokenizer，一个高</description>
+    </item>
+    
+    <item>
+      <title>Meta Agents Research Environments </title>
+      <link>https://aibard123.com/newtutorial/2025/09/meta-agents-research-environments/</link>
+      <pubDate>Tue, 23 Sep 2025 01:42:20 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/meta-agents-research-environments/</guid>
+      <description>Meta Agents Research Environments Meta Agents Research Environments (ARE) 是一个专注于评估AI代理在复杂、动态和现实世界任务中表现的研究平台，特别针对需要多步骤推理和环境动态适应性的挑战。该平台通过提供随时间演变的情景，弥补了传统静态基准的不足，并集成了Gaia2基准测试，其中包含800个跨多个</description>
+    </item>
+    
+    <item>
+      <title>Tiny Qwen </title>
+      <link>https://aibard123.com/newtutorial/2025/09/tiny-qwen/</link>
+      <pubDate>Tue, 23 Sep 2025 01:41:50 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/tiny-qwen/</guid>
+      <description>Tiny Qwen Tiny Qwen项目是Qwen3和Qwen2.5-VL模型的简洁易读的PyTorch重实现，它支持文本处理、视觉理解（通过Qwen2.5-VL的图像引用功能），以及稠密模型与专家混合模型（MoE）的架构。该项目致力于提供比Hugging Fac</description>
+    </item>
+    
+    <item>
+      <title>Qwen3-Omni </title>
+      <link>https://aibard123.com/newtutorial/2025/09/Qwen3-Omni/</link>
+      <pubDate>Tue, 23 Sep 2025 01:41:26 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/Qwen3-Omni/</guid>
+      <description>Qwen3-Omni Qwen3-Omni 是一个原生的端到端多语言全模态基础模型，旨在处理文本、图像、音频和视频等多种输入，并能以文本和自然语音的形式提供实时流式响应。其核心功能在于实现强大的跨模态理解与生成，在文本、图像、音频及音视频任务上均达到最先进水平，特别是在36个音频</description>
+    </item>
+    
+    <item>
+      <title>openAgent </title>
+      <link>https://aibard123.com/newtutorial/2025/09/openAgent/</link>
+      <pubDate>Mon, 22 Sep 2025 01:31:26 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/openAgent/</guid>
+      <description>openAgent openAgent项目是一个完全开源的企业级大模型应用平台，其核心在于整合了智能问答、智能问数、知识库管理、工作流和智能体编排等多元能力，旨在为企业提供一套灵活、可扩展且支持私有化部署的AI解决方案。它支持DeepSeek、智谱AI、豆包</description>
+    </item>
+    
+    <item>
+      <title>OpenPPT </title>
+      <link>https://aibard123.com/newtutorial/2025/09/OpenPPT/</link>
+      <pubDate>Mon, 22 Sep 2025 01:31:00 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/OpenPPT/</guid>
+      <description>OpenPPT OpenPPT 是一个功能强大的在线、基于 Web 的智能 PPT 应用程序，旨在提供 Office 幻灯片创作的全流程服务，涵盖从空白新建、导入现有文件、通过 AI 主题生成，到全面的内容编辑、排版美化、幻灯片播放、演讲辅助、动画效果，直至导出多种格式及分享。该项目核心亮点在于其高度兼</description>
+    </item>
+    
+    <item>
+      <title>YPrompt </title>
+      <link>https://aibard123.com/newtutorial/2025/09/YPrompt/</link>
+      <pubDate>Mon, 22 Sep 2025 01:30:18 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/YPrompt/</guid>
+      <description>YPrompt YPrompt是一个智能提示词生成工具，它通过AI对话引导机制，深入挖掘用户的实际需求，并基于《Architecting Intelligence: A Definitive Guide to the Art and Science of Elite Prompt Engineering》理论，采用GPrompt四步流程（关键指令提取、初始提示词、优化建议、</description>
+    </item>
+    
+    <item>
+      <title>音谷 </title>
+      <link>https://aibard123.com/newtutorial/2025/09/SonicVale/</link>
+      <pubDate>Mon, 22 Sep 2025 01:29:23 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/SonicVale/</guid>
+      <description>音谷 “音谷”项目是一个开源的AI多角色多情绪配音平台，其核心功能是为小说、剧本、视频等内容提供自动化、高度可定制的语音合成与配音服务。该平台允许用户导入文本，进行多角色管理、情绪音色选择与绑定，并能自动拆分台词并生成配音。其关键特性在于支持</description>
+    </item>
+    
+    <item>
+      <title>BananaFace </title>
+      <link>https://aibard123.com/newtutorial/2025/09/BananaFace/</link>
+      <pubDate>Mon, 22 Sep 2025 01:29:00 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/BananaFace/</guid>
+      <description>BananaFace BananaFace是一个开源的AI造型工具，旨在成为用户的“随身造型师”，通过简化操作实现高人物一致性的捏脸、美容以及大师级肖像和造型。该项目支持文生图和图生图两种核心模式，并提供了4大类共44项专业参数供用户选择，从而实现高度可定制化</description>
+    </item>
+    
+    <item>
+      <title>Semlib </title>
+      <link>https://aibard123.com/newtutorial/2025/09/semlib/</link>
+      <pubDate>Thu, 18 Sep 2025 01:28:58 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/semlib/</guid>
+      <description>Semlib Semlib 是一个 Python 库，专门用于构建利用大型语言模型 (LLM) 进行数据处理和分析的管道。该项目的核心亮点在于，它通过自然语言描述而非传统代码来编程实现熟悉的函数式编程原语，例如 map、reduce、sort 和 filter，并在底层自动处理提示、解析、并发控</description>
+    </item>
+    
+    <item>
+      <title>AI Pose Transfer Studio </title>
+      <link>https://aibard123.com/newtutorial/2025/09/NanoBanana-AI-Pose-Transfer/</link>
+      <pubDate>Thu, 18 Sep 2025 01:28:13 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/NanoBanana-AI-Pose-Transfer/</guid>
+      <description>AI Pose Transfer Studio AI Pose Transfer Studio是一个基于Google Gemini 2.5 Flash模型的智能姿态迁移平台，旨在让用户能够轻松地让照片中的人物摆出任何想要的姿势。该平台提供了三种灵活的姿态创建模式：用户可以通过智能编辑器精确控制人体关键节点，利用丰富的预设姿态库</description>
+    </item>
+    
+    <item>
+      <title>Web Codegen Scorer </title>
+      <link>https://aibard123.com/newtutorial/2025/09/web-codegen-scorer/</link>
+      <pubDate>Thu, 18 Sep 2025 01:27:37 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/web-codegen-scorer/</guid>
+      <description>Web Codegen Scorer Web Codegen Scorer是一个专注于评估大型语言模型（LLM）生成Web代码质量的工具，旨在帮助用户做出基于证据的AI生成代码决策。其核心功能包括灵活配置不同模型、框架和工具的评估环境，支持系统指令和MCP服务器集成。该工具提供了一系列内置检</description>
+    </item>
+    
+    <item>
+      <title>Qwen3-ASR-Toolkit </title>
+      <link>https://aibard123.com/newtutorial/2025/09/Qwen3-ASR-Toolkit/</link>
+      <pubDate>Thu, 18 Sep 2025 01:27:05 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/Qwen3-ASR-Toolkit/</guid>
+      <description>Qwen3-ASR-Toolkit Qwen3-ASR-Toolkit 是一个先进的Python命令行工具，旨在增强Qwen-ASR API的音频转录能力。该项目通过智能语音活动检测（VAD）将长时间的音频或视频文件切割成不超过3分钟的短片段，并利用多线程并行处理这些片段，从而突破了官方API的3分钟时长限制</description>
+    </item>
+    
+    <item>
+      <title>DeepResearch </title>
+      <link>https://aibard123.com/newtutorial/2025/09/DeepResearch/</link>
+      <pubDate>Thu, 18 Sep 2025 01:26:28 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/09/DeepResearch/</guid>
+      <description>DeepResearch DeepResearch项目推出了通义深研（Tongyi DeepResearch），这是一个由通义实验室专为长周期、深度信息检索任务设计和开发的智能体大语言模型。该模型拥有305亿总参数，每token激活33亿，其核心优势在于采用全自动化</description>
+    </item>
+    
     <item>
       <title>Fast RAG </title>
       <link>https://aibard123.com/newtutorial/2025/09/fast-rag/</link>

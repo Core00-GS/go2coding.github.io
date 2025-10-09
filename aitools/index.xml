@@ -6,7 +6,70 @@
     <description>Recent content in Aitools on AiBard123| ai工具网址导航,ai最新产品</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 17 Sep 2025 00:10:40 +0600</lastBuildDate><atom:link href="https://aibard123.com/aitools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Oct 2025 00:10:40 +0600</lastBuildDate><atom:link href="https://aibard123.com/aitools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI新工具(20251009) 论文自动演示视频生成与评估；多智能体公司研究报告生成器；ChatGPT对话时间线导航</title>
+      <link>https://aibard123.com/aitools/2025/10/20251009/</link>
+      <pubDate>Thu, 09 Oct 2025 00:10:40 +0600</pubDate>
+      
+      <guid>https://aibard123.com/aitools/2025/10/20251009/</guid>
+      <description>✨ 1: Paper2Video 论文自动演示视频生成与评估 Paper2Video是一个旨在自动化科研论文演示视频生成并提供专业评估的开源项目。其核心功能分为两大部分：PaperTalker代理能够根据LaTeX论文源文件、参考图像和音频，自动生成包含幻灯片、字幕、光</description>
+    </item>
+    
+    <item>
+      <title>AI新工具(20250929) AI 桌面英语；AI智能Twitter推文分析与推送；腾讯开源HunyuanImage-3.0</title>
+      <link>https://aibard123.com/aitools/2025/09/20250929/</link>
+      <pubDate>Mon, 29 Sep 2025 00:10:40 +0600</pubDate>
+      
+      <guid>https://aibard123.com/aitools/2025/09/20250929/</guid>
+      <description>✨ 1: binglish AI 桌面英语 binglish是一款结合了AI技术的桌面英语学习工具，其主要功能是自动获取并更换必应每日精选壁纸，同时在壁纸上叠加AI生成的相关英语词汇及其图片、例句和翻译，为用户提供沉浸式的学习体验。该工具的词汇难度范围从大学英语四级到</description>
+    </item>
+    
+    <item>
+      <title>AI新工具(20250926) macOS 屏幕AI时间线；可定制AI聊天机器人模板；Bilibili的`index-tts`模型微调</title>
+      <link>https://aibard123.com/aitools/2025/09/20250926/</link>
+      <pubDate>Fri, 26 Sep 2025 00:10:40 +0600</pubDate>
+      
+      <guid>https://aibard123.com/aitools/2025/09/20250926/</guid>
+      <description>✨ 1: Dayflow macOS 屏幕AI时间线 Dayflow是一款专为macOS设计的原生应用，核心在于自动将用户的屏幕活动转化为带有AI摘要和分心高亮的时间轴，从而帮助用户清晰洞察其时间使用。它以1帧/秒的低开销录制屏幕，每15分钟进行一次AI分析来生成活动概览</description>
+    </item>
+    
+    <item>
+      <title>AI新工具(20250925) AI代码代理自动化；虚假新闻检测器；Reddit AI趋势自动化报告；AI收据管理</title>
+      <link>https://aibard123.com/aitools/2025/09/20250925/</link>
+      <pubDate>Thu, 25 Sep 2025 00:10:40 +0600</pubDate>
+      
+      <guid>https://aibard123.com/aitools/2025/09/20250925/</guid>
+      <description>✨ 1: Coding Agent AI代码代理自动化 Coding Agent Template是一个AI驱动的编码代理项目，旨在自动化代码仓库中的编程任务。它支持Claude Code、OpenAI Codex CLI、Cursor CLI和opencode等多种AI代理进行任务执行，并利用Vercel</description>
+    </item>
+    
+    <item>
+      <title>AI新工具(20250923) 阿里巴巴开源全模态多语言实时交互大模型Qwen3-Omni；meta发布AI智能体动态环境评估</title>
+      <link>https://aibard123.com/aitools/2025/09/20250923/</link>
+      <pubDate>Tue, 23 Sep 2025 00:10:40 +0600</pubDate>
+      
+      <guid>https://aibard123.com/aitools/2025/09/20250923/</guid>
+      <description>✨ 1: Qwen3-Omni 全模态多语言实时交互大模型 Qwen3-Omni 是一个原生的端到端多语言全模态基础模型，旨在处理文本、图像、音频和视频等多种输入，并能以文本和自然语音的形式提供实时流式响应。其核心功能在于实现强大的跨模态理解与生成，在文本、图像、音频及音视频任务上均达到</description>
+    </item>
+    
+    <item>
+      <title>AI新工具(20250922) AI智能在线PPT全流程创作；AI 智能捏脸造型；AI多角色多情绪配音平台</title>
+      <link>https://aibard123.com/aitools/2025/09/20250922/</link>
+      <pubDate>Mon, 22 Sep 2025 00:10:40 +0600</pubDate>
+      
+      <guid>https://aibard123.com/aitools/2025/09/20250922/</guid>
+      <description>✨ 1: BananaFace AI 智能捏脸造型 BananaFace是一个开源的AI造型工具，旨在成为用户的“随身造型师”，通过简化操作实现高人物一致性的捏脸、美容以及大师级肖像和造型。该项目支持文生图和图生图两种核心模式，并提供了4大类共44项专业参数供用户选择，从</description>
+    </item>
+    
+    <item>
+      <title>AI新工具(20250918) 通义开源深度研究智能体大模型；Qwen ASR 超长音视频转录；AI 照片姿态迁移</title>
+      <link>https://aibard123.com/aitools/2025/09/20250918/</link>
+      <pubDate>Thu, 18 Sep 2025 00:10:40 +0600</pubDate>
+      
+      <guid>https://aibard123.com/aitools/2025/09/20250918/</guid>
+      <description>✨ 1: DeepResearch 深度研究智能体大模型 DeepResearch项目推出了通义深研（Tongyi DeepResearch），这是一个由通义实验室专为长周期、深度信息检索任务设计和开发的智能体大语言模型。该模型拥有305亿总参数，每token激活33亿，其</description>
+    </item>
+    
     <item>
       <title>AI新工具(20250917) 多模型编程助手；本地隐私RAG</title>
       <link>https://aibard123.com/aitools/2025/09/20250917/</link>
