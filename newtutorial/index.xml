@@ -6,7 +6,187 @@
     <description>Recent content in Newtutorials on AiBard123| ai工具网址导航,ai最新产品</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 09 Oct 2025 02:12:37 +0000</lastBuildDate><atom:link href="https://aibard123.com/newtutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Oct 2025 01:28:55 +0000</lastBuildDate><atom:link href="https://aibard123.com/newtutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LightReasoner </title>
+      <link>https://aibard123.com/newtutorial/2025/10/LightReasoner/</link>
+      <pubDate>Wed, 15 Oct 2025 01:28:55 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/LightReasoner/</guid>
+      <description>LightReasoner LightReasoner项目颠覆了传统AI训练模式，旨在通过小型语言模型（SLM）“教授”大型语言模型（LLM）来显著提升其推理能力，其核心理念在于“更智能而非更艰难”的AI改进路径。该方法通过战略性地选择高影响力的关键推理步骤，而非对</description>
+    </item>
+    
+    <item>
+      <title>Grok2API </title>
+      <link>https://aibard123.com/newtutorial/2025/10/grok2api/</link>
+      <pubDate>Wed, 15 Oct 2025 01:28:12 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/grok2api/</guid>
+      <description>Grok2API Grok2API是一个基于FastAPI重构的Grok API接口项目，其核心功能在于提供与OpenAI官方接口完全兼容的AI服务，包括流式对话、通过自然语言提示进行图像生成与编辑、联网搜索、深度思考以及结合图像和文本的视频生成。该项目通过</description>
+    </item>
+    
+    <item>
+      <title>OS AI Computer Use </title>
+      <link>https://aibard123.com/newtutorial/2025/10/os-ai-computer-use/</link>
+      <pubDate>Wed, 15 Oct 2025 01:27:31 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/os-ai-computer-use/</guid>
+      <description>OS AI Computer Use OS AI Computer Use 项目是一个本地桌面自动化代理，它通过抽象的LLM客户端（目前支持Anthropic Computer Use，并计划扩展到OpenAI）来根据自然语言任务控制操作系统。其设计实现了LLM供应商无关性，并提供了适用于macOS和Windows的</description>
+    </item>
+    
+    <item>
+      <title>Whitebridge </title>
+      <link>https://aibard123.com/newtutorial/2025/10/AI-Agents-Network/</link>
+      <pubDate>Wed, 15 Oct 2025 01:27:00 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/AI-Agents-Network/</guid>
+      <description>Whitebridge Whitebridge是一个由AI代理驱动，专注于人物数据智能的去中心化物理基础设施网络（DePIN）项目，旨在通过连接全球去中心化人物数据提供者与尖端AI代理，创建一个全球信任层。该项目致力于将碎片化的在线数据转化为可操作的洞察，赋能用</description>
+    </item>
+    
+    <item>
+      <title>CodeMachine CLI </title>
+      <link>https://aibard123.com/newtutorial/2025/10/CodeMachine-CLI/</link>
+      <pubDate>Wed, 15 Oct 2025 01:26:29 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/CodeMachine-CLI/</guid>
+      <description>CodeMachine CLI CodeMachine CLI是一个功能强大的自主多智能体平台，它在本地将用户规范转化为生产级代码。其核心亮点在于它能自我构建，项目代码库的90%即是由CodeMachine自身基于一份单一规范文件自主生成，充分展现了其在架构规划、实现与测试方面的强大编排能</description>
+    </item>
+    
+    <item>
+      <title>Big Three Realtime Agents </title>
+      <link>https://aibard123.com/newtutorial/2025/10/big-3-super-agent/</link>
+      <pubDate>Tue, 14 Oct 2025 01:35:12 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/big-3-super-agent/</guid>
+      <description>Big Three Realtime Agents Big Three Realtime Agents 是一个统一的语音控制编排器，它以 OpenAI 实时语音代理为核心，旨在无缝协调三种关键 AI 代理协同工作：利用 OpenAI 实时语音代理进行自然语音交互、任务调度和代理生命周期管理；通过 Claude Code 代理实现软件开发和文件操作；并借助 Gemini 浏览器代理执行网页自动化和</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Graph </title>
+      <link>https://aibard123.com/newtutorial/2025/10/knowledge-graph/</link>
+      <pubDate>Tue, 14 Oct 2025 01:34:38 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/knowledge-graph/</guid>
+      <description>Knowledge Graph Knowledge Graph项目提供了一个结构化的数据集，旨在连接各州学术标准、课程和来自领域专家的学习科学数据，其核心功能在于促进内容与学术标准的对齐、指导教学规划、实现跨州标准比较以及支持课程内容校准，尤其适用于构建AI增强型教育应用。该项目将数据</description>
+    </item>
+    
+    <item>
+      <title>Open Computer Use </title>
+      <link>https://aibard123.com/newtutorial/2025/10/open-computer-use/</link>
+      <pubDate>Tue, 14 Oct 2025 01:33:41 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/open-computer-use/</guid>
+      <description>Open Computer Use Open Computer Use 是一款强大的开源平台，赋予AI智能体如同人类般操作计算机的真实能力，其核心功能在于通过浏览器自动化、终端命令执行和桌面应用控制等，实现了AI对复杂任务的自主执行。项目关键特性包括支持多AI提供商，允许用户自带API密钥以确保数据</description>
+    </item>
+    
+    <item>
+      <title>Gemini 对话时间轴 </title>
+      <link>https://aibard123.com/newtutorial/2025/10/Gemini-conversation-timeline/</link>
+      <pubDate>Tue, 14 Oct 2025 01:32:40 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/Gemini-conversation-timeline/</guid>
+      <description>Gemini 对话时间轴 Gemini 对话时间轴是一款非官方浏览器扩展，旨在通过在 Google Gemini 对话页面右侧添加可交互的时间轴，帮助用户高效管理和回顾长篇对话，避免在信息海洋中迷失。其核心功能包括实现对话中消息的精准跳转，支持一键收藏重要消息并进行高亮显示以便随时查阅，具备</description>
+    </item>
+    
+    <item>
+      <title>nanochat </title>
+      <link>https://aibard123.com/newtutorial/2025/10/nanochat/</link>
+      <pubDate>Tue, 14 Oct 2025 01:32:04 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/nanochat/</guid>
+      <description>nanochat nanochat是一个旨在以极低成本（如100美元）实现“最佳ChatGPT”的全栈大型语言模型（LLM）项目，其核心在于提供一个单一、简洁、可修改且依赖轻量级的代码库，涵盖了LLM从分词、预训练、微调、评估到推理以及通过Web UI提供服</description>
+    </item>
+    
+    <item>
+      <title>Agentic Design Patterns </title>
+      <link>https://aibard123.com/newtutorial/2025/10/agentic-design-patterns-cn/</link>
+      <pubDate>Mon, 13 Oct 2025 01:36:13 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/agentic-design-patterns-cn/</guid>
+      <description>Agentic Design Patterns “Agentic Design Patterns”项目是Antonio Gulli所著《Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems》一书的中英文对照翻译，其主要功能是为AI工程师、软件架构师、产品经理、研究人员及学生提供构建智能AI系统的实践指南。</description>
+    </item>
+    
+    <item>
+      <title>DupCheck </title>
+      <link>https://aibard123.com/newtutorial/2025/10/dupcheck/</link>
+      <pubDate>Mon, 13 Oct 2025 01:35:34 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/dupcheck/</guid>
+      <description>DupCheck DupCheck是一个纯Python实现的通用图片重复与篡改检测工具，旨在解决保险理赔审核、内容审核、电商验真和版权保护等场景中的图像比对需求。该项目通过结合多姿态pHash、多尺度块哈希、ORB关键点以及ResNet-18/CLIP深度</description>
+    </item>
+    
+    <item>
+      <title>Sora 2 Playground </title>
+      <link>https://aibard123.com/newtutorial/2025/10/sora-2-playground/</link>
+      <pubDate>Mon, 13 Oct 2025 01:35:07 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/sora-2-playground/</guid>
+      <description>Sora 2 Playground Sora 2 Playground是一个基于Web的交互平台，专为OpenAI的Sora 2模型设计，用户能够通过文本提示生成全新视频，或利用视频混音模式对现有视频进行定向修改。该项目提供了对Sora 2 API所有关键参数的全面UI控制，支持多视频</description>
+    </item>
+    
+    <item>
+      <title>MOSS-Speech </title>
+      <link>https://aibard123.com/newtutorial/2025/10/MOSS-Speech/</link>
+      <pubDate>Mon, 13 Oct 2025 01:34:35 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/MOSS-Speech/</guid>
+      <description>MOSS-Speech MOSS-Speech项目是一个开创性的端到端语音交互模型，其核心创新在于能够直接生成语音，无需文本作为中间指导，从而避免了传统方法中的文本瓶颈，并实现了更自然、高效的语音到语音对话。它通过在预训练文本大型语言模型（LLM）骨干上引入基于</description>
+    </item>
+    
+    <item>
+      <title>Claude Code Hub </title>
+      <link>https://aibard123.com/newtutorial/2025/10/claude-code-hub/</link>
+      <pubDate>Mon, 13 Oct 2025 01:34:11 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/claude-code-hub/</guid>
+      <description>Claude Code Hub Claude Code Hub 是一个专为团队和企业设计的智能 AI API 代理中转服务平台，旨在解决多 AI 服务提供商的统一管理问题。该平台通过提供一个统一的 API 接口来管理各类 AI 模型，并具备智能负载均衡、多租户管理、API 密钥生命周期管理、实时请求监控与成本分析、以及一个现</description>
+    </item>
+    
+    <item>
+      <title>Diffusion Toolkit </title>
+      <link>https://aibard123.com/newtutorial/2025/10/DiffusionToolkit/</link>
+      <pubDate>Fri, 10 Oct 2025 01:34:55 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/DiffusionToolkit/</guid>
+      <description>Diffusion Toolkit Diffusion Toolkit是一款专为AI生成图像设计的强大工具，其核心功能在于对AI图像的元数据进行索引、查看与管理，旨在帮助用户高效地组织、搜索和分类其日益增长的图像库。该工具能够扫描图像并存储包括提示（prompts）和PNGInfo在内的元</description>
+    </item>
+    
+    <item>
+      <title>NativeMind </title>
+      <link>https://aibard123.com/newtutorial/2025/10/NativeMindExtension/</link>
+      <pubDate>Fri, 10 Oct 2025 01:34:03 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/NativeMindExtension/</guid>
+      <description>NativeMind NativeMind是一个私有化、开源的本地AI助手浏览器扩展，作为ChatGPT的本地替代方案，它基于Ollama和WebLLM技术，核心优势在于所有AI模型完全在用户设备上运行，彻底杜绝了云端AI的隐私风险，确保零跟踪、数据主权、高速</description>
+    </item>
+    
+    <item>
+      <title>AgentFlow </title>
+      <link>https://aibard123.com/newtutorial/2025/10/AgentFlow/</link>
+      <pubDate>Fri, 10 Oct 2025 01:33:27 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/AgentFlow/</guid>
+      <description>AgentFlow AgentFlow是一个可训练、工具集成的智能体框架，旨在解决现有工具增强推理方法在可扩展性和泛化能力上的局限。其核心是一个模块化智能体系统，由规划器（Planner）、执行器（Executor）、验证器（Verifier）和生成器（Ge</description>
+    </item>
+    
+    <item>
+      <title>XunLong </title>
+      <link>https://aibard123.com/newtutorial/2025/10/xunlong/</link>
+      <pubDate>Fri, 10 Oct 2025 01:32:58 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/xunlong/</guid>
+      <description>XunLong XunLong 是一个基于大型语言模型（LLM）的多模态智能内容生成系统，它利用LangGraph编排的多智能体协作架构，能够通过自然语言指令，实现从需求分析到最终导出的端到端自动化，高质量地生成研究报告、小说和演示文稿（PPT）。该系统支持将PDF、</description>
+    </item>
+    
+    <item>
+      <title>SageRead </title>
+      <link>https://aibard123.com/newtutorial/2025/10/sageread/</link>
+      <pubDate>Fri, 10 Oct 2025 01:32:16 +0000</pubDate>
+      
+      <guid>https://aibard123.com/newtutorial/2025/10/sageread/</guid>
+      <description>SageRead SageRead是一款革新的电子书阅读器，其核心亮点在于将人工智能深度融入阅读体验。它不仅提供EPUB格式电子书的流畅阅读功能，支持用户进行笔记、高亮和书签管理，更允许用户在阅读时直接与AI进行对话，AI会基于书籍内容提供即时的深度理解、</description>
+    </item>
+    
     <item>
       <title>手搓Claude Code </title>
       <link>https://aibard123.com/newtutorial/2025/10/mini_claude_code/</link>
